@@ -1,7 +1,7 @@
 from PIL import Image
 
 # Define the file path to the image
-file_path = r"C:\Users\dulit\OneDrive\Desktop\Green Card\Dulith.jpeg"
+file_path = r"C:\Users\xxxxx\OneDrive\Desktop\xxxxx\xxxxx.jpeg"
 
 # Open the image file
 img = Image.open(file_path)
